@@ -65,6 +65,5 @@ I use Vercel for deployment. To deploy your own instance:
 2. Connect your GitHub repository
 3. Configure your environment variables in the Vercel dashboard
 4. Deploy!
-
-Made with ❤️ by Elaine
+   
 Instructor: Bill Z
