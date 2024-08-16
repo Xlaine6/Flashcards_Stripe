@@ -67,3 +67,4 @@ I use Vercel for deployment. To deploy your own instance:
 4. Deploy!
 
 Made with ❤️ by Elaine
+Instructor: Bill Z
